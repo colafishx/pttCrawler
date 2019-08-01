@@ -1,0 +1,369 @@
+[33mcommit f8c04076004941d3f7584240c86a95a883ae16de[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sun Mar 25 11:20:22 2018 -0700
+
+    Update README.md
+
+[33mcommit ac7ba66178924c3d01af70d099c4035ccf9da02b[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Sun Mar 25 11:15:51 2018 -0700
+
+    fix typo in test
+
+[33mcommit e319ebc32e0589cb0427b676bf956593e4d1c9dd[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Sun Mar 25 11:12:49 2018 -0700
+
+    fix typo
+
+[33mcommit caa7dbb2f06aca28df4d6da9fdcb1a0be2fcbc03[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Nov 24 18:05:06 2017 -0800
+
+    Update README.md
+
+[33mcommit 63d0ed460b4b170402354df501920af5de1f5b4b[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Nov 24 18:04:03 2017 -0800
+
+    Update README.md
+
+[33mcommit c77f6f9a2bc572ba02db92a4ba7bd77a6a2a4ea0[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Nov 24 18:03:35 2017 -0800
+
+    Update .travis.yml
+
+[33mcommit 1acde4347e57f507f0c443edd019b7092c00cac9[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Nov 24 17:48:55 2017 -0800
+
+    Update README.md
+
+[33mcommit ac055632d4bf992a93465f1079d3f0e34b360f97[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Aug 26 17:54:42 2017 -0700
+
+    Update setup.py
+
+[33mcommit 9b2e0275a230b1e8c07f588557fc8f8626d24f9f[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sat Aug 26 17:25:04 2017 -0700
+
+    remove web
+
+[33mcommit 698ad2eb75fe1bdad2b41ce25c446d8fd6209857[m[33m ([m[1;31morigin/web[m[33m)[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Aug 26 17:21:11 2017 -0700
+
+    Update README.md
+
+[33mcommit fc94a637631b40ad32fcb42482bda48e40620a8b[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sat Aug 26 17:19:07 2017 -0700
+
+    update README, requirements, and minor update
+
+[33mcommit af877125250f2f5df79eee87e0607d53ef99e918[m
+Merge: cfbc946 e49b361
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Aug 26 15:42:06 2017 -0700
+
+    Merge pull request #16 from marlboromoo/master
+    
+    Module-friendly
+
+[33mcommit e49b361be549c191f03d6fdd02591852bcc24c4a[m
+Merge: 5062d56 cfbc946
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Aug 26 15:41:54 2017 -0700
+
+    Merge branch 'master' into master
+
+[33mcommit cfbc946b5705a5533cfe29be0e57de7afeca5681[m
+Merge: e415229 5de5c19
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Aug 26 15:40:20 2017 -0700
+
+    Merge pull request #15 from duckingod/master
+    
+    better negative page index support
+
+[33mcommit 5062d5633442849cc797007facdd73a6106bc411[m
+Author: Timothy Lee <marlboromoo@gmail.com>
+Date:   Wed Aug 23 10:52:23 2017 +0800
+
+    Ability to custom request timeout
+
+[33mcommit 861dd7c7ec255804ba7df9661b2ba3cd8816d1d4[m
+Author: Timothy Lee <marlboromoo@gmail.com>
+Date:   Tue Aug 22 17:09:45 2017 +0800
+
+    Return file content instead of printing
+
+[33mcommit be409f0a57fd7c64c0cdf1ce0038f92e789cbe44[m
+Author: Timothy Lee <marlboromoo@gmail.com>
+Date:   Tue Aug 22 16:52:26 2017 +0800
+
+    Ability to custom the store path
+
+[33mcommit f6c035de254147c80635f8b6e82d1329a853d3b2[m
+Author: Timothy Lee <marlboromoo@gmail.com>
+Date:   Tue Aug 22 16:35:20 2017 +0800
+
+    Add article URL in result
+
+[33mcommit cda57e9e033ced015d541d632b5dbdc7baee4f3c[m
+Author: Timothy Lee <marlboromoo@gmail.com>
+Date:   Tue Aug 22 16:11:25 2017 +0800
+
+    Refactoring
+
+[33mcommit 5de5c19a581fc166c7809cfb72a8da43e85fc4f3[m
+Author: duckingod <kingoduck@gmail.com>
+Date:   Thu Jul 20 12:09:24 2017 +0800
+
+    better negative page index support
+
+[33mcommit e4152292d61fb177a6a9d867ef5b3a707b92d6d6[m
+Merge: 6888bbd 466e8a7
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Apr 28 07:35:45 2017 +0800
+
+    Merge pull request #12 from gogog22510/patch-1
+    
+    Update setup.py
+
+[33mcommit 466e8a7110a36867f9c0750d053acea5277e3ab6[m
+Author: Charles <gogog22510@gmail.com>
+Date:   Thu Apr 27 19:03:27 2017 -0400
+
+    Update setup.py
+    
+    FIX the setup.py raising warning when run it with Python3.4
+
+[33mcommit 6888bbdab3121e95b1e4d0904397a45b3ca8ffd3[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Apr 22 17:38:06 2017 -0700
+
+    remove test data in __main__
+
+[33mcommit b1f5651fba4a122bb33e4662bd0388a33fbacddb[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Fri Apr 7 11:44:33 2017 -0700
+
+    add html.parer for BeautifulSoupt to prevent warning; adjust a test case
+
+[33mcommit 0093a1bc001e4f3b83d4caa4d5cda6acfd23fdad[m
+Merge: ba0254d 5795b9a
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Sat Apr 8 02:41:58 2017 +0800
+
+    Merge pull request #11 from YoEugene/master
+    
+    修改 .json 輸出格式，避免json decoder failure
+
+[33mcommit 5795b9a7f424f6bb751be0e0a753bd2bda6e4c11[m
+Author: YoEugene <yoeugene.hsu@gmail.com>
+Date:   Fri Apr 7 15:04:06 2017 +0800
+
+    修改 .json 輸出格式，避免json decoder failure
+
+[33mcommit ba0254d87c22a53808f361bbea66e0c6f5260588[m
+Merge: a2b19ff 83b4cfc
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Mon Mar 20 21:51:29 2017 -0300
+
+    Merge pull request #10 from UDICatNCHU/master
+    
+    再給我一次機會XD
+
+[33mcommit 83b4cfc20757a0bc124722610976f63652aaf54e[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Fri Mar 17 12:07:01 2017 +0800
+
+    add __init__ or import will fail at python2.7
+
+[33mcommit 8283ec464d8a364ff20191096bee54fab4589796[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Fri Mar 17 11:48:51 2017 +0800
+
+    [Bug fix] pass unit test
+
+[33mcommit 84352535bd84d219afa946836539a3ee862dd096[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Thu Mar 16 16:47:27 2017 +0800
+
+    [Bug fix] packages名稱打錯
+
+[33mcommit af6ce2249b33e0e4355ba9f885fb91bbb36b7b2c[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Sun Mar 12 23:36:51 2017 +0800
+
+    update readme
+
+[33mcommit b69c01c57eb624deda5e6fd665ad4a7e833a1192[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Sun Mar 12 23:07:44 2017 +0800
+
+    把ptt-web-crawler包成函式庫，可以使用command line呼叫
+
+[33mcommit 278c07d1f46916e75e21eb6f00af05d3be1d3a4c[m
+Author: davidtnfsh <davidtnfsh@gmail.com>
+Date:   Mon Feb 20 10:03:42 2017 +0800
+
+    minify ptt crawler
+
+[33mcommit a2b19ff0bec1dbe55ba9cb0e454339eab1c757f6[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Mon Oct 24 19:02:10 2016 -0700
+
+    Remove versions
+    
+    https://github.com/jwlin/ptt-web-crawler/issues/7
+
+[33mcommit 7d5d069bf62e7ca95eea70ce7ba3aae644bdb834[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sat Aug 20 17:54:45 2016 +0800
+
+    update test case
+
+[33mcommit e6f037f84a913baea9f5442468c33971089a52ff[m
+Merge: 52602d6 6259fc0
+Author: jwlin <cs.castman@mail.com>
+Date:   Sat Aug 20 17:43:19 2016 +0800
+
+    Merge branch 'gogochi-master'
+
+[33mcommit 6259fc0537d9ecf334a6f1a1d73e271c00b6edde[m
+Author: gogochi <gogochi@users.noreply.github.com>
+Date:   Thu Aug 18 16:52:43 2016 +0800
+
+    check None for re.search
+    
+    Some boards only have one page.
+    for example, https://www.ptt.cc/bbs/b994060work/index.html
+    re.search().group(1) will crash the code.
+
+[33mcommit 52602d68af7823cd8ccc87227ebe746ea779d6fe[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sun Jul 3 16:26:33 2016 +0800
+
+    debug getLastPage() and add a test
+
+[33mcommit 40e8b08d170b0660267f2bb7f1ff7ef73f280407[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Feb 26 16:06:13 2016 +0800
+
+    Update README.md
+
+[33mcommit e3aae421f8a649a21bc4c6374e7938545009bc87[m
+Merge: 7d95ba9 268b0c0
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri Feb 26 15:59:26 2016 +0800
+
+    Merge pull request #3 from kingispeak/master
+    
+    Add getLastPage() function
+
+[33mcommit 268b0c04d47509190e1ef19339a1c209b5199fad[m
+Author: kingispeak <kingispeak@gmail.com>
+Date:   Fri Feb 26 12:56:06 2016 +0800
+
+    Add getLastPage() function
+
+[33mcommit 7d95ba932dae781c4152f35a92379942d8807534[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Tue Jun 2 18:10:38 2015 -0700
+
+    tweak demo page and add live demo readme
+
+[33mcommit 3ffcf7f9fbc88b5583b59439159cae2116add018[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Tue Jun 2 15:00:45 2015 -0700
+
+    exception handling for push without content and for no metalines
+
+[33mcommit 6323710692c30a9a9e28a283dd73ffbc6a6517e1[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sun May 24 11:01:28 2015 -0700
+
+    backend sanity check for web
+
+[33mcommit 22a9c5aab56cb3f36b840483593db4ceab8720a5[m
+Author: jwlin <cs.castman@mail.com>
+Date:   Sun May 24 00:42:46 2015 -0700
+
+    add web demo directory
+
+[33mcommit 069a11228cc7380c85b37f45c6dfcfe8dfe4a58f[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Fri May 22 18:54:43 2015 -0700
+
+    update requirements and test cases
+
+[33mcommit b73c24417b2a101cd1a547dfb92ce682f244bf69[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Fri Feb 27 13:22:39 2015 -0500
+
+    fixed issue#1
+
+[33mcommit 60e8efa6639dfa6ef42f6ff5097dc12e69f4e156[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Thu Feb 26 22:31:48 2015 -0500
+
+    Update README.md
+
+[33mcommit 15dada8e4a3c8ce8c0671a322876ae4fa8829db4[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Thu Feb 26 19:06:32 2015 -0500
+
+    Update README.md
+
+[33mcommit 993561e78d0ed99a550b1b5247ac3d4ea2fb3c49[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Thu Feb 26 18:07:17 2015 -0500
+
+    bug fixed
+
+[33mcommit b991d30aa7e93e8b30553a6fece7cf4f35d315d6[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Thu Feb 26 17:17:00 2015 -0500
+
+    Update .travis.yml
+
+[33mcommit 9c79ac9c0659e14aa33593725522d897d3724df0[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Thu Feb 26 17:15:04 2015 -0500
+
+    add travis CI file
+
+[33mcommit 778aa330a442246f335b39f93672b186e23472d1[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Thu Feb 26 16:51:29 2015 -0500
+
+    make code more testable, add test cases
+
+[33mcommit b5f0e64ab06ac5b29157436481fcc518fb08a84d[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Thu Feb 26 16:46:14 2015 -0500
+
+    Update and rename README.md to README2.md
+
+[33mcommit e475dac5758aca035a19fbb4a746444a8be0b24e[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Sun Feb 22 20:38:29 2015 -0500
+
+    finish crawling, python 2/3compatiblity, flake8
+
+[33mcommit a23575a835ef5405a50327d41449c27b11dd96bc[m
+Author: jwlin <cs.castman@gmail.com>
+Date:   Mon Feb 16 23:42:51 2015 -0500
+
+    basic parse done. developing
+
+[33mcommit 84f7f5c703ec1d7cf9f0f174e6cccdc0af6c0410[m
+Author: Jun-Wei Lin <cs.castman@gmail.com>
+Date:   Mon Feb 16 21:24:53 2015 -0500
+
+    Initial commit
